@@ -59,4 +59,4 @@ jobs:
           app-name: 'FANDAI233'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C6258DFE6534424F89B17DA2348C2BAB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_987F3207ECCD4C909845C93B092F5B37 }}
